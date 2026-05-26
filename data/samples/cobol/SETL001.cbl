@@ -1,0 +1,6 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. SETL001.
+       PROCEDURE DIVISION.
+           CALL 'ACCTUPD'.
+           COPY TRADE-REC.
+           STOP RUN.
