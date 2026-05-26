@@ -107,3 +107,22 @@ Step 2 should implement:
 - real schema creation
 - seed ontology script
 - initial ingestion of sample COBOL/JCL/copybooks
+
+
+
+## Issues in github
+
+Issue 1: Implement PostgreSQL Ontology Repository
+Issue 2: Implement COBOL Parser
+Issue 3: Implement JCL Parser
+Issue 4: Implement Copybook Parser
+Issue 5: Implement Ingestion Pipeline
+Issue 6: Implement NetworkX Graph Loader
+Issue 7: Implement Agent Tools
+Issue 8: Implement Vertex AI Provider
+
+example: 
+@workspace Implement GitHub Issue 1 using docs/prompts/01-postgres-ontology-repository.md.
+
+or 
+@workspace Read docs/prompts/01-postgres-ontology-repository.md and implement it. Follow .github/copilot-instructions.md.
